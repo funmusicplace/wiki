@@ -19,7 +19,13 @@ theme:
         name: Switch to light mode
       primary: pink
       accent: light blue
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.action.edit
 
+repo_url: https://github.com/funmusicplace/wiki
+edit_uri: edit/main/docs/
 
 extra_css:
   - stylesheets/extra.css
