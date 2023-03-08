@@ -13,6 +13,10 @@
 * [Bandcamp: the chaos bazaar](https://components.one/posts/bandcamp-the-chaos-bazaar#1), followed by [how much money do people make on bandcamp](https://components.one/documentation/bandcamp-income-distribution)
 * [Impact of music streaming adopting the User Centric Model](https://cnm.fr/en/studies/impact-of-online-music-streaming-services-adopting-the-ucps/)
 
+## Platform Co-ops
+
+* [The Slow Demise of Loconomics](https://daspitzberg.medium.com/the-slow-demise-of-loconomics-4e184346d359)
+
 ## Art World Etc
 
 Nika Dubrovsky and David Graeber's "Another Art World":
