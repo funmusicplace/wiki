@@ -25,6 +25,7 @@ Nika Dubrovsky and David Graeber's "Another Art World":
 
 * [Art & Labor](https://archive.org/details/artlaborruskinmo0000bori)
 * [Artpolitik: Social Anarchist Aesthetics in an Age of Fragmentation](https://www.minorcompositions.info/?p=581)
+* [Noise Uprising: The Audiopolitics of a World Musical Revolution](https://www.versobooks.com/books/1889-noise-uprising)
 
 ## Tech
 
