@@ -1,0 +1,15 @@
+body {
+  font-size: 1rem;
+}
+
+.md-header__inner {
+  padding: 0 1.4rem;
+}
+
+.md-typeset {
+  font-size: 1rem;
+}
+
+.md-content__inner {
+  padding: 0 1.2rem 1.4rem;
+}
