@@ -26,6 +26,8 @@
 
 🔥 Enabling creativity in everyone is a utopian vision;
 
+🪡 We want to make space for unfinished thoughts, ideas, and projects;
+
 🌹 We intend to challenge all forms of domination and hierarchy, through building our own understandings of racism, sexism, ableism, genderism, classism, and all other ways that power is held over others, and how this relates to our creative and collective experiences;
 
 👯 We want to have fun along the way;
