@@ -13,3 +13,25 @@ body {
 .md-content__inner {
   padding: 0 1.2rem 1.4rem;
 }
+
+.ml-embedded {
+  margin-top: 4rem;
+
+}
+
+.ml-form-embedWrapper.embedForm {
+  max-width: inherit !important;
+  background-color: var(--md-default-bg-color) !important;
+
+  color: var(--md-typeset-color) !important;
+}
+
+.ml-form-embedWrapper.embedForm h4,
+.ml-form-embedWrapper.embedForm p,
+.ml-form-embedWrapper.embedForm label {
+  color: var(--md-typeset-color) !important;
+}
+
+.ml-form-embedWrapper.embedForm button {
+  background-color: var(--md-typeset-a-color) !important;
+}
