@@ -1,7 +1,9 @@
 site_name: Fun Music Place
 
 theme:
+  custom_dir: overrides
   name: material
+  logo: img/favicon-32x32.png
   favicon: img/favicon.ico
   palette: 
     - media: "(prefers-color-scheme: light)"
