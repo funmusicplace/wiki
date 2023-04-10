@@ -23,12 +23,20 @@ theme:
       primary: pink
       accent: light blue
   features:
-    - navigation.instant
+    # - navigation.instant
     - navigation.tracking
     - content.action.edit
 
 repo_url: https://github.com/funmusicplace/wiki
 edit_uri: edit/main/docs/
+
+plugins:
+  - blogging:
+      size: 4
+      dirs: # The directories to be included
+        - blog
+      features: 
+        tags: {}
 
 extra_css:
   - stylesheets/extra.css
