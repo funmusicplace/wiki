@@ -16,7 +16,10 @@ body {
 
 .ml-embedded {
   margin-top: 4rem;
+}
 
+.ml-form-embedBody {
+  padding: 0 !important;
 }
 
 .ml-form-embedWrapper.embedForm {
