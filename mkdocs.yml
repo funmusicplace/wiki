@@ -1,4 +1,5 @@
 site_name: Fun Music Place
+site_url: https://funmusic.place
 
 theme:
   custom_dir: overrides
