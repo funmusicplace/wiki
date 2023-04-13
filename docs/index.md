@@ -1,8 +1,12 @@
+---
+template: home.html
+---
+
 # Welcome to Fun Music Place
 
 ## What is this place?
 
-We're a collective of musicians, artists, coders, and just people who like thinking about the way we make music.
+We're a collective of musicians, artists, coders, and just people who like thinking about why and the way we make music.
 
 Check out our [observations and intent](/observations-and-intent) to see where we're coming from. They're kind of like points of unity but not really.
 
