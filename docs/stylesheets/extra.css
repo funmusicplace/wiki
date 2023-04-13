@@ -18,6 +18,12 @@ body {
   padding: 0 1.2rem 1.4rem;
 }
 
+.hero-image {
+  height: 400px; 
+  margin: 3rem 2rem 2rem 2rem;
+  /* fill: var(--md-typeset-color) !important; */
+}
+
 
 /**
 * All to do with the MailerLite subscription form
