@@ -9,10 +9,10 @@
 
 ## Streaming and Music Industry
 
-Whether we like it or not, music streaming is a consumer favorite. But it's not profitable, it's environmentally disastrous, and it's not great for the musicians.
+Whether we like it or not, music streaming is a consumer favorite. But it's not profitable, it's environmentally disastrous, and it's not great for musicians.
 
 - [Inside the fight to fix streaming](https://www.musicradar.com/news/inside-the-fight-fix-streaming)
-- [This is what you'll pay for](https://open.substack.com/pub/jaimebrooks/p/this-is-what-youll-pay-for)
+- [This is what you'll pay for](https://open.substack.com/pub/jaimebrooks/p/this-is-what-youll-pay-for), paired with [the new Drake & The Weeknd based AI generated](https://twitter.com/rpnickson/status/1647548141384736770) song as an insight into the future of streaming and music production generally, and what we'll be paying for on our streaming platforms.
 - [Streaming's endgame](https://www.daveedwards.co/writing/streamings-endgame/)
 - [Bandcamp: the chaos bazaar](https://components.one/posts/bandcamp-the-chaos-bazaar#1), followed by [how much money do people make on bandcamp](https://components.one/documentation/bandcamp-income-distribution)
 - [Impact of music streaming adopting the User Centric Model](https://cnm.fr/en/studies/impact-of-online-music-streaming-services-adopting-the-ucps/)
