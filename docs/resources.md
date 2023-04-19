@@ -1,3 +1,9 @@
+---
+template: home.html
+title: Some Relevant Reading & Research
+headerImage: owl-resources
+---
+
 # Some Relevant Reading / Research
 
 ## White Supremacy and Organizational Culture
