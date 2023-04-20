@@ -20,6 +20,7 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
+      # The below should be in a requirements file maybe?
       - run: pip install mkdocs-material 
       - run: pip install mkdocs-blogging-plugin
       - run: mkdocs gh-deploy --force

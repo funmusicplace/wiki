@@ -1,5 +1,6 @@
 ---
 template: home.html
+headerImage: sunset-svg
 ---
 
 # Welcome to Fun Music Place
