@@ -18,10 +18,12 @@ body {
   padding: 0 1.2rem 1.4rem;
 }
 
-.hero-image {
+.hero-image,
+div.hero-image > svg {
+  text-align: center;
   height: 400px; 
   margin: 3rem 2rem 2rem 2rem;
-  /* fill: var(--md-typeset-color) !important; */
+  fill: var(--md-typeset-color) !important;
 }
 
 
