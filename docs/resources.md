@@ -13,7 +13,12 @@ headerImage: owl-resources
 - [Dismantling White Culture at Resonate Series](https://community.resonate.coop/t/dismantling-white-culture-at-resonate/2897).
   Some of us found our way here from our experiences at Resonate, and participated in this reading series started by community leads at the co-op. The series was a space for discussion and analysis around white culture and white supremacy as it exists in online spaces, its intersection with volunteer culture and volunteerism, and our dominant society's tendency to exclude marginilized groups from decision making processes.
 
-## Streaming and Music Industry
+## The Music Industry
+
+* [Steve Albini's The Problem with Music](https://thebaffler.com/salvos/the-problem-with-music) Steve Albini’s iconic music industry takedown explains how record labels use A&R flaks and impenetrable contracts to screw artists while raking in millions
+* [Musicians Can and Should Organize to Improve Their Pay and Working Conditions](https://jacobin.com/2020/02/musicians-working-conditions-afm-amazon-sxsw-nomusicforice) and [When Musicians went on Strike, and Won](https://jacobin.com/2022/03/1940s-musicians-strike-american-federations-of-musicians-afm-labels-streaming) are both by Joey La Neve DeFrancesco and get at some crucial labor history for musicians. 
+
+## Streaming And Digital Sales
 
 Whether we like it or not, music streaming is a consumer favorite. But it's not profitable, it's environmentally disastrous, and it's not great for musicians.
 
