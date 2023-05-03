@@ -49,3 +49,4 @@ How can we make room for ourselves psychically, spiritually, and practically to 
 
 # Further Reading
 * [Wired: How the Streaming Era Turned Music Into Sludge](https://www.wired.com/story/plaintext-how-the-streaming-era-turned-music-into-sludge/)
+* [Afraid of AI? The start-ups selling it want you to be.](https://www.latimes.com/business/technology/story/2023-03-31/column-afraid-of-ai-the-startups-selling-it-want-you-to-be)
