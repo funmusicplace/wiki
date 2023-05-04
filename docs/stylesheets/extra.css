@@ -1,3 +1,7 @@
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: hsla(var(--md-hue),0%,16%,1);
+}
+
 body {
   font-size: 1rem;
 }
@@ -6,7 +10,8 @@ body {
   padding: 0 1.4rem;
 }
 
-.md-header__source {
+.md-header__source,
+.md-nav__source {
   display: none;
 }
 
@@ -21,7 +26,7 @@ body {
 .hero-image,
 div.hero-image > svg {
   text-align: center;
-  height: 400px; 
+  max-height: 400px; 
   margin: 3rem 2rem 2rem 2rem;
   fill: var(--md-typeset-color) !important;
 }
