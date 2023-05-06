@@ -52,6 +52,7 @@ Nika Dubrovsky and David Graeber's "Another Art World":
 - [Artpolitik: Social Anarchist Aesthetics in an Age of Fragmentation](https://www.minorcompositions.info/?p=581)
   A history of artistic tendencies (modernism, avant-garde, postmodernism) and how they intersect with social movements, the politics of their era, and what they meant for the political visions of their participants.
 - [Noise Uprising: The Audiopolitics of a World Musical Revolution](https://www.versobooks.com/books/1889-noise-uprising)
+- [Blues Legacies and Black Feminism](https://www.penguinrandomhouse.com/books/37351/blues-legacies-and-black-feminism-by-angela-y-davis/) by Angela Davis 
 
 ## Tech
 
