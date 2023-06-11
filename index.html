@@ -15,7 +15,7 @@
         <link rel="next" href="newsletter/">
       
       <link rel="icon" href="img/favicon.ico">
-      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.9">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.15">
     
     
       
@@ -23,10 +23,10 @@
       
     
     
-      <link rel="stylesheet" href="assets/stylesheets/main.85bb2934.min.css">
+      <link rel="stylesheet" href="assets/stylesheets/main.26e3688c.min.css">
       
         
-        <link rel="stylesheet" href="assets/stylesheets/palette.a6bdf11c.min.css">
+        <link rel="stylesheet" href="assets/stylesheets/palette.ecc896b0.min.css">
       
       
 
@@ -556,28 +556,29 @@
 
 
 
-<div class="pages">
-    
+<div class = "md-typeset">
+    <div class="pages">
         
-        <div class="page" id="page1">
-
             
-                
-                
-                
-                
+            <div class="page" id="page1">
 
                 
-                
                     
-                
+                    
+                    
+                    
 
-                
-                
                     
-                
-                
-                <div class="blog-post">
+                    
+                        
+                    
+
+                    
+                    
+                        
+                    
+                    
+                    <div class="blog-post">
     <h3 class="blog-post-title">
         <a class="link" href="https://funmusic.place/blog/the-spotify-ai-blues/">The Spotify AI Blues</a>
     </h3>
@@ -606,24 +607,25 @@
     <hr />
 </div>
 
+                    
                 
-            
-        </div>
-    
-</div>
-
-<div class="blog-center blog-hidden">
-    <div class="blog-pagination " id="blog-pagination">
-        
-            
-                
-            
-            <a class="page-number" href="">1</a>
+            </div>
         
     </div>
-    
-        <div>Total <b>1</b> posts.</div>
-    
+
+    <div class="blog-center blog-hidden">
+        <div class="blog-pagination " id="blog-pagination">
+            
+                
+                    
+                
+                <a class="page-number" href="">1</a>
+            
+        </div>
+        
+            <div>Total <b>1</b> posts.</div>
+        
+    </div>
 </div></p>
 <div class="ml-embedded" data-form="mW173Y"></div>
 
@@ -671,7 +673,7 @@
     
 <!-- Add scripts that need to run before here -->
 
-      <script src="assets/javascripts/bundle.fac441b0.min.js"></script>
+      <script src="assets/javascripts/bundle.b4d07000.min.js"></script>
       
     
 <!-- Add scripts that need to run afterwards here -->
@@ -718,6 +720,35 @@ function scrollToTop() {
   }, 100);
 }
 
+const onButtonClick = (ele) => {
+  var current = pagination.getElementsByClassName("active");
+  if (current.length) {
+    current[0].className = current[0].className.replace(
+      " active", ""
+    );
+  }
+  ele.className += " active";
+
+  // Togglg visibility of pages
+  const destPage = parseInt(ele.textContent)
+  var pages = document.getElementsByClassName("page")
+  if (destPage && pages.length) {
+    for (var j = 0; j < pages.length; j++) {
+      const pageId = parseInt(pages[j].id.replace("page", ""))
+      if (pageId != destPage) {
+        // This is not the destination page
+        if (!pages[j].className.includes("blog-hidden")) {
+          pages[j].className += " blog-hidden"
+        }
+      } else {
+        // This is the destination page
+        pages[j].className = pages[j].className.replace(" blog-hidden", "")
+      }
+    }
+    scrollToTop();
+  }
+};
+
 var pagination = document.getElementById("blog-pagination");
 if (pagination) {
   var links = pagination.getElementsByClassName("page-number");
@@ -725,38 +756,11 @@ if (pagination) {
     for (var i = 0; i < links.length; i++) {
       // Toggle pagination highlight
       links[i].addEventListener("click", function () {
-        var current = pagination.getElementsByClassName("active");
-        if (current.length) {
-          current[0].className = current[0].className.replace(
-            " active", ""
-          );
-        }
-        this.className += " active";
-
-        // Togglg visibility of pages
-        const destPage = parseInt(this.textContent)
-        var pages = document.getElementsByClassName("page")
-        if (destPage && pages.length) {
-          for (var j = 0; j < pages.length; j++) {
-            const pageId = parseInt(pages[j].id.replace("page", ""))
-            if (pageId != destPage) {
-              // This is not the destination page
-              if (!pages[j].className.includes("blog-hidden")) {
-                pages[j].className += " blog-hidden"
-              }
-            } else {
-              // This is the destination page
-              pages[j].className = pages[j].className.replace(" blog-hidden", "")
-            }
-          }
-          scrollToTop();
-        }
+        onButtonClick(this);
       });
     }
     links[currentPage].className += " active"
-    if (currentPage > 0) {
-      links[currentPage].click();
-    }
+    onButtonClick(links[currentPage]);
   }
 }
 </script>
