@@ -22,7 +22,7 @@ title: Observations & Intent
 
 🫠 The lines between musicians, artists, teachers, service workers, etc, blur as musicians and artists rely on other sources of income to make ends meet;
 
-🌱 We are planting the seeds for community that is not impacted by profit motives or dependent on grant funding;
+🌱 We are planting the seeds for a community that is not impacted by profit motives or dependent on grant funding;
 
 🫱🏽‍🫲🏻 There are many contradictions at work and there are many dedicated individuals working on figuring this out. We want to invite those people into conversation;
 
