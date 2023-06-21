@@ -11,6 +11,12 @@ We're a collective of musicians, artists, coders, and people who like thinking a
 
 Check out our [observations and intent](/observations-and-intent) to see where we're coming from. They're kind of like points of unity but not really.
 
+## Socials
+
+Follow us on Instagram to see what we've been talking about
+
+<a href="https://www.instagram.com/funmusicplace">:fontawesome-brands-instagram: Instagram: @funmusicplace</a>
+
 ## Blog
 
 {{ blog_content }}

@@ -31,7 +31,13 @@ theme:
 repo_url: https://github.com/funmusicplace/wiki
 edit_uri: edit/main/docs/
 
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/funmusicplace/
+
 plugins:
+  - social
   - blogging:
       size: 4
       dirs: # The directories to be included
@@ -45,4 +51,7 @@ extra_css:
 markdown_extensions:
   - attr_list
   - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
