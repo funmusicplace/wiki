@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://funmusic.place/</loc>
-         <lastmod>2023-06-21</lastmod>
+         <lastmod>2023-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://funmusic.place/newsletter/</loc>
-         <lastmod>2023-06-21</lastmod>
+         <lastmod>2023-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://funmusic.place/observations-and-intent/</loc>
-         <lastmod>2023-06-21</lastmod>
+         <lastmod>2023-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://funmusic.place/resources/</loc>
-         <lastmod>2023-06-21</lastmod>
+         <lastmod>2023-07-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://funmusic.place/blog/noise-uprising-reading-group/</loc>
+         <lastmod>2023-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://funmusic.place/blog/the-spotify-ai-blues/</loc>
-         <lastmod>2023-06-21</lastmod>
+         <lastmod>2023-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
