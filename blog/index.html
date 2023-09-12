@@ -8,11 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://funmusic.place/newsletter/">
+        <link rel="canonical" href="https://funmusic.place/blog/">
       
       
-        <link rel="prev" href="../blog/">
+        <link rel="prev" href="../resources/">
       
+      
+        <link rel="next" href="../newsletter/">
       
       
       <link rel="icon" href="../img/favicon.ico">
@@ -20,7 +22,7 @@
     
     
       
-        <title>Newsletter - Fun Music Place</title>
+        <title>Blog - Fun Music Place</title>
       
     
     
@@ -57,11 +59,11 @@
       
         <meta  property="og:type"  content="website" >
       
-        <meta  property="og:title"  content="Newsletter - Fun Music Place" >
+        <meta  property="og:title"  content="Blog - Fun Music Place" >
       
         <meta  property="og:description"  content="None" >
       
-        <meta  property="og:image"  content="https://funmusic.place/assets/images/social/newsletter.png" >
+        <meta  property="og:image"  content="https://funmusic.place/assets/images/social/blog/index.png" >
       
         <meta  property="og:image:type"  content="image/png" >
       
@@ -69,15 +71,15 @@
       
         <meta  property="og:image:height"  content="630" >
       
-        <meta  property="og:url"  content="https://funmusic.place/newsletter/" >
+        <meta  property="og:url"  content="https://funmusic.place/blog/" >
       
         <meta  name="twitter:card"  content="summary_large_image" >
       
-        <meta  name="twitter:title"  content="Newsletter - Fun Music Place" >
+        <meta  name="twitter:title"  content="Blog - Fun Music Place" >
       
         <meta  name="twitter:description"  content="None" >
       
-        <meta  name="twitter:image"  content="https://funmusic.place/assets/images/social/newsletter.png" >
+        <meta  name="twitter:image"  content="https://funmusic.place/assets/images/social/blog/index.png" >
       
     
     
@@ -133,7 +135,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Newsletter
+              Blog
             
           </span>
         </div>
@@ -289,25 +291,6 @@
       
   
   
-  
-    <li class="md-nav__item">
-      <a href="../blog/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Blog
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
     
   
   
@@ -321,12 +304,31 @@
         
   
   <span class="md-ellipsis">
-    Newsletter
+    Blog
   </span>
   
 
       </a>
       
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../newsletter/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Newsletter
+  </span>
+  
+
+      </a>
     </li>
   
 
@@ -362,7 +364,7 @@
                   
 
   
-    <a href="https://github.com/funmusicplace/wiki/edit/main/docs/newsletter.md" title="Edit this page" class="md-content__button md-icon">
+    <a href="https://github.com/funmusicplace/wiki/edit/main/docs/blog/index.md" title="Edit this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
     </a>
@@ -370,9 +372,267 @@
   
 
 
-  <h1>Newsletter</h1>
+  <h1>Blog</h1>
 
-<div class="ml-embedded" data-form="mW173Y"></div>
+<p>
+
+
+<style>
+    .md-typeset .blog-post:first-of-type h3 {
+        margin-top: 0;
+    }
+
+    .md-typeset .blog-post-title {
+        margin-bottom: 0;
+    }
+
+    .md-typeset .blog-post-extra {
+        color: var(--md-default-fg-color--light);
+    }
+
+    .md-typeset .blog-center {
+        text-align: center;
+    }
+
+    .md-typeset .blog-pagination {
+        display: inline-block;
+        margin-top: 20px;
+    }
+
+    .md-typeset .blog-pagination a {
+        color: var(--md-typeset-color);
+        float: left;
+        padding: .25em 1em;
+        text-decoration: none;
+        border-radius: 1em;
+        margin-left: .25em;
+        margin-right: .25em;
+        transition: all .15s ease-in-out;
+    }
+
+    .md-typeset .blog-pagination a.active {
+        background-color: var(--md-typeset-a-color);
+        color: white;
+        font-weight: bold;
+    }
+
+    .md-typeset .blog-pagination a:hover:not(.active) {
+        background-color: #dddddda1;
+    }
+
+    .md-typeset .blog-hidden {
+        display: none;
+    }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <style>
+    .md-typeset .blogging-tags-grid {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 5px;
+    }
+
+    .md-typeset .blogging-tag {
+        color: var(--md-typeset-color);
+        background-color: var(--md-typeset-code-color);
+        white-space: nowrap;
+        display: block;
+    }
+
+    .md-typeset .blogging-tag code {
+        border-radius: 5px;
+    }
+</style>
+
+    
+
+
+
+
+
+
+
+
+<div class = "md-typeset">
+    <div class="pages">
+        
+            
+            <div class="page" id="page1">
+
+                
+                    
+                    
+                    
+                    
+
+                    
+                    
+                        
+                    
+
+                    
+                    
+                        
+                    
+                    
+                    <div class="blog-post">
+    <h3 class="blog-post-title">
+        <a class="link" href="https://funmusic.place/blog/introducing-mirlo/">Introducing Mirlo</a>
+    </h3>
+    
+        <div class="blogging-tags-grid">
+        
+        <a href="#mirlo" class="blogging-tag"><code>#mirlo</code></a>
+        
+        <a href="#platform" class="blogging-tag"><code>#platform</code></a>
+        
+        <a href="#audio-distribution" class="blogging-tag"><code>#audio-distribution</code></a>
+        
+        <a href="#patronage" class="blogging-tag"><code>#patronage</code></a>
+        
+    </div>
+    
+        
+
+    
+    <p class="blog-post-description">
+        Mirlo provides a user-friendly space to help musicians sell music, manage subscriptions, and share with their supporters.
+    </p>
+    <div class="blog-post-extra">
+        Published at: 9/12/23, 12:31 PM
+    </div>
+    <hr />
+</div>
+
+                    
+                
+                    
+                    
+                    
+                    
+
+                    
+                    
+                        
+                    
+
+                    
+                    
+                        
+                    
+                    
+                    <div class="blog-post">
+    <h3 class="blog-post-title">
+        <a class="link" href="https://funmusic.place/blog/noise-uprising-reading-group/">Noise Uprising: Reading Group Jul 20th at 9am EST. Co-hosted with Radical Vital Ruins</a>
+    </h3>
+    
+        <div class="blogging-tags-grid">
+        
+        <a href="#events" class="blogging-tag"><code>#events</code></a>
+        
+        <a href="#reading-group" class="blogging-tag"><code>#reading-group</code></a>
+        
+        <a href="#noise-uprising" class="blogging-tag"><code>#noise-uprising</code></a>
+        
+        <a href="#history" class="blogging-tag"><code>#history</code></a>
+        
+    </div>
+    
+        
+
+    
+    <p class="blog-post-description">
+        In Noise Uprising: The Audiopolitics of a World Musical Revolution, cultural historian Michael Denning delves into the politics of music recorded in the late 1920s and early 1930s. This was a pivotal era and the cusp of the emergence of electrical...
+    </p>
+    <div class="blog-post-extra">
+        Published at: 4/8/23, 12:00 AM
+    </div>
+    <hr />
+</div>
+
+                    
+                
+                    
+                    
+                    
+                    
+
+                    
+                    
+                        
+                    
+
+                    
+                    
+                        
+                    
+                    
+                    <div class="blog-post">
+    <h3 class="blog-post-title">
+        <a class="link" href="https://funmusic.place/blog/the-spotify-ai-blues/">The Spotify AI Blues</a>
+    </h3>
+    
+        <div class="blogging-tags-grid">
+        
+        <a href="#music" class="blogging-tag"><code>#music</code></a>
+        
+        <a href="#ai" class="blogging-tag"><code>#ai</code></a>
+        
+        <a href="#streaming" class="blogging-tag"><code>#streaming</code></a>
+        
+        <a href="#spotify" class="blogging-tag"><code>#spotify</code></a>
+        
+    </div>
+    
+        
+
+    
+    <p class="blog-post-description">
+        We can learn a lot from Spotify, its attempts to be profitable, and the model’s incredible popularity among consumers. The corporation’s pursuit of profits will push it to explore AI-generated music, calling into question the intrinsic value of music,...
+    </p>
+    <div class="blog-post-extra">
+        Published at: 4/8/23, 12:00 AM
+    </div>
+    <hr />
+</div>
+
+                    
+                
+            </div>
+        
+    </div>
+
+    <div class="blog-center blog-hidden">
+        <div class="blog-pagination " id="blog-pagination">
+            
+                
+                    
+                
+                <a class="page-number" href="">1</a>
+            
+        </div>
+        
+            <div>Total <b>3</b> posts.</div>
+        
+    </div>
+</div></p>
 
 
 
@@ -461,4 +721,63 @@
 
 
   </body>
-</html>
+</html><script>var currentPage = 0
+const lastComponent = window.location.href.split("/").slice(-1).pop()
+
+if (lastComponent && lastComponent.slice(0, 7) == "#blog-p") {
+  const page = parseInt(lastComponent.slice(7))
+  if (page) {
+    currentPage = page - 1
+  }
+}
+
+function scrollToTop() {
+  setTimeout(function () {
+    window.scrollTo(0, 0);
+  }, 100);
+}
+
+const onButtonClick = (ele) => {
+  var current = pagination.getElementsByClassName("active");
+  if (current.length) {
+    current[0].className = current[0].className.replace(
+      " active", ""
+    );
+  }
+  ele.className += " active";
+
+  // Togglg visibility of pages
+  const destPage = parseInt(ele.textContent)
+  var pages = document.getElementsByClassName("page")
+  if (destPage && pages.length) {
+    for (var j = 0; j < pages.length; j++) {
+      const pageId = parseInt(pages[j].id.replace("page", ""))
+      if (pageId != destPage) {
+        // This is not the destination page
+        if (!pages[j].className.includes("blog-hidden")) {
+          pages[j].className += " blog-hidden"
+        }
+      } else {
+        // This is the destination page
+        pages[j].className = pages[j].className.replace(" blog-hidden", "")
+      }
+    }
+    scrollToTop();
+  }
+};
+
+var pagination = document.getElementById("blog-pagination");
+if (pagination) {
+  var links = pagination.getElementsByClassName("page-number");
+  if (links.length) {
+    for (var i = 0; i < links.length; i++) {
+      // Toggle pagination highlight
+      links[i].addEventListener("click", function () {
+        onButtonClick(this);
+      });
+    }
+    links[currentPage].className += " active"
+    onButtonClick(links[currentPage]);
+  }
+}
+</script>
