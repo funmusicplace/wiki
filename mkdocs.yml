@@ -26,7 +26,15 @@ theme:
   features:
     # - navigation.instant
     - navigation.tracking
+    - navigation.indexes
     - content.action.edit
+
+nav:
+  - Home: index.md
+  - Observations & Intent: observations-and-intent.md
+  - Resources: resources.md
+  - Blog: blog/index.md
+  - Newsletter: newsletter.md
 
 repo_url: https://github.com/funmusicplace/wiki
 edit_uri: edit/main/docs/
@@ -51,6 +59,8 @@ extra_css:
 markdown_extensions:
   - attr_list
   - footnotes
+  - toc: 
+      toc_depth : "1-1"
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg

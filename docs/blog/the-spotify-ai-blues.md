@@ -5,7 +5,7 @@ tags:
   - ai
   - streaming
   - spotify
-date: 2022-04-08 00:00:00
+date: 2023-04-08 00:00:00
 description: We can learn a lot from Spotify, its attempts to be profitable, and the model’s incredible popularity among consumers. The corporation’s pursuit of profits will push it to explore AI-generated music, calling into question the intrinsic value of music, the labor of making music, and the role of creativity in our society. While AI could hypothetically generate novel and pleasurable pieces of art and music, a focus on whether or not it successfully does so misses the entire point of why humans engage in creative expression. Creativity is not best supported by commodities and the downward pressure on wage labor by markets, but is something we do in community with each other. Our task is finding out how we get there.
 ---
 

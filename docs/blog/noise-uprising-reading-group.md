@@ -5,7 +5,7 @@ tags:
   - reading-group
   - noise-uprising
   - history
-date: 2022-04-08 00:00:00
+date: 2023-04-08 00:00:00
 description: "In Noise Uprising: The Audiopolitics of a World Musical Revolution, cultural historian Michael Denning delves into the politics of music recorded in the late 1920s and early 1930s. This was a pivotal era and the cusp of the emergence of electrical recording. In New Orleans, Havana, Rio, and Jakarta, musicians all around the world captured the pulse and spirit of their city streets and brought them into impromptu recording studios. How did these songs set the stage for decolonization? What lessons can we learn from more closely examining these histories?
 
 Join us for a Noise Uprising reading group at 9 am EST, Thursday, July 20th! This discussion is co-hosted by Radical Vital Ruins. Radical Vital Ruins are curated interventions by Diane Enobabor and Çaca Yvaire."
