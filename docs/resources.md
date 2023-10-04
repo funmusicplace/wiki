@@ -15,8 +15,9 @@ headerImage: owl-resources
 
 ## The Music Industry
 
-* [Steve Albini's The Problem with Music](https://thebaffler.com/salvos/the-problem-with-music) Steve Albini’s iconic music industry takedown explains how record labels use A&R flaks and impenetrable contracts to screw artists while raking in millions
-* [Musicians Can and Should Organize to Improve Their Pay and Working Conditions](https://jacobin.com/2020/02/musicians-working-conditions-afm-amazon-sxsw-nomusicforice) and [When Musicians went on Strike, and Won](https://jacobin.com/2022/03/1940s-musicians-strike-american-federations-of-musicians-afm-labels-streaming) are both by Joey La Neve DeFrancesco and get at some crucial labor history for musicians. 
+- [Steve Albini's The Problem with Music](https://thebaffler.com/salvos/the-problem-with-music) Steve Albini’s iconic music industry takedown explains how record labels use A&R flaks and impenetrable contracts to screw artists while raking in millions
+- [Musicians Can and Should Organize to Improve Their Pay and Working Conditions](https://jacobin.com/2020/02/musicians-working-conditions-afm-amazon-sxsw-nomusicforice) and [When Musicians went on Strike, and Won](https://jacobin.com/2022/03/1940s-musicians-strike-american-federations-of-musicians-afm-labels-streaming) are both by Joey La Neve DeFrancesco and get at some crucial labor history for musicians.
+- [The Soul-Sucking Reality of Touring](https://hammerandhope.org/article/lrain-tasha-music-touring) by Taja Cheek, Chelsea Pachito, Matana Roberts, & Tasha
 
 ## Streaming And Digital Sales
 
@@ -45,6 +46,8 @@ Nika Dubrovsky and David Graeber's "Another Art World":
 - [Part 2: Utopia of Freedom as a Market Value](https://www.e-flux.com/journal/104/298663/another-art-world-part-2-utopia-of-freedom-as-a-market-value/)
 - [Part 3: Policing and Symbolic Order](https://www.e-flux.com/journal/113/360192/another-art-world-part-3-policing-and-symbolic-order/). Really interesting comparison between defund the police and defund the art world.
 
+Chapter 6: My Studio is the World of Sarah Jaffe's _Work Won't Love You Back_.
+
 ### Books
 
 - [Art & Labor](https://archive.org/details/artlaborruskinmo0000bori)
@@ -52,7 +55,7 @@ Nika Dubrovsky and David Graeber's "Another Art World":
 - [Artpolitik: Social Anarchist Aesthetics in an Age of Fragmentation](https://www.minorcompositions.info/?p=581)
   A history of artistic tendencies (modernism, avant-garde, postmodernism) and how they intersect with social movements, the politics of their era, and what they meant for the political visions of their participants.
 - [Noise Uprising: The Audiopolitics of a World Musical Revolution](https://www.versobooks.com/books/1889-noise-uprising)
-- [Blues Legacies and Black Feminism](https://www.penguinrandomhouse.com/books/37351/blues-legacies-and-black-feminism-by-angela-y-davis/) by Angela Davis 
+- [Blues Legacies and Black Feminism](https://www.penguinrandomhouse.com/books/37351/blues-legacies-and-black-feminism-by-angela-y-davis/) by Angela Davis
 
 ## Tech
 

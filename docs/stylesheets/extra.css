@@ -23,11 +23,17 @@ body {
   padding: 0 1.2rem 1.4rem;
 }
 
-.hero-image,
+.hero-image {
+  max-width: 100%;
+  overflow: clip;
+  text-align: center;
+  display: flex;
+}
+
 div.hero-image > svg {
   text-align: center;
   max-height: 400px; 
-  margin: 3rem 2rem 2rem 2rem;
+  margin: 3rem 0;
   fill: var(--md-typeset-color) !important;
 }
 
