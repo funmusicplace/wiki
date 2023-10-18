@@ -45,6 +45,7 @@ Nika Dubrovsky and David Graeber's "Another Art World":
 - [Part 1: Art Communism and Artificial Scarcity](https://www.e-flux.com/journal/102/284624/another-art-world-part-1-art-communism-and-artificial-scarcity/). The art world is predicated on the romantic ideas that 1) everyone can be an artist and 2) not everyone can be an artist. And 2 will always win over 1.
 - [Part 2: Utopia of Freedom as a Market Value](https://www.e-flux.com/journal/104/298663/another-art-world-part-2-utopia-of-freedom-as-a-market-value/)
 - [Part 3: Policing and Symbolic Order](https://www.e-flux.com/journal/113/360192/another-art-world-part-3-policing-and-symbolic-order/). Really interesting comparison between defund the police and defund the art world.
+- [Grant Funding is broken here's how to fix it](https://www.experimental-history.com/p/grant-funding-is-broken-heres-how). A reflexion on the limits and flaws of grant funding institutions, and considerations about how to remedy them by approaching the concept of "trust" differently with regards to how to pick grant recipients.
 
 Chapter 6: My Studio is the World of Sarah Jaffe's _Work Won't Love You Back_.
 
